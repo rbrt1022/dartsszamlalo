@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dartsszamlalo/static/css/main.aac503e1.css",
+    "main.js": "/dartsszamlalo/static/js/main.717ee614.js",
+    "static/js/787.ae5757f7.chunk.js": "/dartsszamlalo/static/js/787.ae5757f7.chunk.js",
+    "index.html": "/dartsszamlalo/index.html",
+    "main.aac503e1.css.map": "/dartsszamlalo/static/css/main.aac503e1.css.map",
+    "main.717ee614.js.map": "/dartsszamlalo/static/js/main.717ee614.js.map",
+    "787.ae5757f7.chunk.js.map": "/dartsszamlalo/static/js/787.ae5757f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac503e1.css",
+    "static/js/main.717ee614.js"
+  ]
+}
