@@ -1,0 +1,161 @@
+body
+{
+    background: #34e89e;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #226b88, #34e89e);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #226b88, #34e89e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#A1{
+    /* width: 100lvw; */
+    min-height: 100dvh;
+    max-height: 100lvh;
+    /* background-color: lightgreen; */
+    padding: auto;
+    padding: 10%;
+}
+
+#A2{
+    /* width: 100lvw; */
+    min-height: 100dvh;
+    max-height: 100lvh;
+    /* background-color: lightgreen; */
+    display: none;
+    padding: 10%;
+}
+
+#pontvalasztos{
+    /* width: 100lvw; */
+    min-height: 100dvh;
+    max-height: 100lvh;
+    /* background-color: lightgreen; */
+    display: none;
+    padding: 10%;
+}
+
+#pontos
+{
+    font-size: xx-large;
+}
+
+button{
+    background-color: white;
+    border-radius: 20px;
+    /* width: 10vw;
+    height: 5vh; */
+    width: 60%;
+    height: 10%;
+    /* margin-top: 10%;
+    margin-bottom: 10%; */
+    font-size: x-large;
+    font-weight: bold;
+}
+
+input, button
+{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+.gamers{
+    height: 5vh;
+}
+
+/* .kozepre
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
+
+#ingame
+{
+    padding-top: 2%;
+    /* background-color: lightgreen; */
+    min-height: 100dvh;
+    max-height: 100lvh;
+    /* background-color: lightgreen; */
+    display: none;
+}
+
+#tablazat{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    /* background-color: yellow; */
+}
+
+.tabla
+{
+    width: 50%;
+}
+
+.pontszam
+{
+    background-color: white;
+    height: 30dvw;
+    font-size: 10lvh;
+    border: solid 3px black;
+    /* border-radius: 20px; */
+}
+
+#j1pont
+{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+#j2pont
+{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.nevek
+{
+    font-size: x-large;
+}
+
+#ennyikell
+{
+    font-size: larger;
+    border-top: solid 3px black;
+}
+
+#j1pb, #j2pb{
+    display: none;
+    border-radius: 30px;
+    border: solid black 3px;
+    /* border-image: linear-gradient( white, black); */
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+#j1pb{
+    background-color: rgba(34, 107, 136, 0.5);
+}
+
+#j2pb{
+    background-color: rgba(52, 232, 158, 0.5);
+}
+
+#pontbeiros
+{
+    margin-top: 20px;
+}
+
+.szorzo
+{
+    border-radius: 5px;
+    height: 20px;
+    margin: 10px;
+}
+
+.pontszambeiros
+{
+    border-radius: 5px;
+    height: 20px;
+    width: 100px;
+}
